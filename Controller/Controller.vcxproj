@@ -75,9 +75,33 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
+    <ClCompile Include="Ablaufprogramm.cpp" />
+    <ClCompile Include="Anlagenueberwachung.cpp" />
+    <ClCompile Include="Basis.cpp" />
+    <ClCompile Include="DB_Connector.cpp" />
+    <ClCompile Include="Herdplatte.cpp" />
+    <ClCompile Include="I2C.cpp" />
+    <ClCompile Include="I2C_to_U.cpp" />
+    <ClCompile Include="I_to_I2C.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Ruehrwerk.cpp" />
+    <ClCompile Include="Temperaturregelung.cpp" />
+    <ClCompile Include="Temperatursensor.cpp" />
+    <ClCompile Include="U_to_I2C.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Ablaufprogramm.h" />
+    <ClInclude Include="Anlagenueberwachung.h" />
+    <ClInclude Include="Basis.h" />
+    <ClInclude Include="DB_Connector.h" />
+    <ClInclude Include="Herdplatte.h" />
+    <ClInclude Include="I2C.h" />
+    <ClInclude Include="I2C_to_U.h" />
+    <ClInclude Include="I_to_I2C.h" />
+    <ClInclude Include="Ruehrwerk.h" />
+    <ClInclude Include="Temperaturregelung.h" />
+    <ClInclude Include="Temperatursensor.h" />
+    <ClInclude Include="U_to_I2C.h" />
   </ItemGroup>
   <ItemDefinitionGroup />
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

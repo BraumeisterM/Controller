@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Basis" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Basis.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ablaufprogramm" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ablaufprogramm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="U_to_I2C" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V_to_I2C.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Temperatursensor" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Temperatursensor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Temperaturregelung" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIE=</HashCode>
+      <FileName>Temperaturregelung.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ruehrwerk" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ruehrwerk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="I2C_to_U" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>I2C_to_V.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="I2C" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>I2C.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Herdplatte" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Herdplatte.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="I_to_I2C" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>I_to_I2C.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DB_Connector" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB_Connector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anlagenueberwachung" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Anlagenueberwachung.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
